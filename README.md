@@ -20,7 +20,7 @@
 
 ## This data is relevant and appropriate because it provides insights into students' financial situations, preferences, and behaviors, which are crucial for recommending suitable loan options tailored to individual needs and circumstances.
 
-## Based on the data you chose to use in this recommendation system, would your model be using collaborative filtering, content-based filtering, or context-based filtering? Justify why the data you selected would be suitable for your choice of filtering method.
+# Based on the data you chose to use in this recommendation system, would your model be using collaborative filtering, content-based filtering, or context-based filtering? Justify why the data you selected would be suitable for your choice of filtering method.
 
 ## A combination of collaborative filtering and content-based filtering. The combination of these two filtering methods can provide more personalized and accurate recommendations by considering both user behavior patterns and loan attributes.
 
